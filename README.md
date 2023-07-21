@@ -9,4 +9,5 @@
 • Text: Click Here To Change Wall Paper
 5) Save five images (jpg format) in the drawable folder. In this example one.jpg,
 two.jpg, three.jpg, four.jpg and five.jpg images are saved in drawable folder.
-6) add   <uses-permission android:name="android.permission.SET_WALLPAPER" /> to the maifest file before application tag.
+
+7) add   <uses-permission android:name="android.permission.SET_WALLPAPER" /> to the maifest file before application tag.
